@@ -9,7 +9,7 @@ A landing page for the Bankist application. The page displays some of the applic
 There are two ways to access the website:
 
 1. Clone this repository and open the index file on any browser (works offline)
-2. Go to the following website: https://guess-the-number-of.netlify.app
+2. Go to the following website: https://bankist-website-of.netlify.app
 
 ## Languages and Frameworks
 
