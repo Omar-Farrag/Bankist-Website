@@ -4,7 +4,7 @@
 
 A landing page for the Bankist application. The page displays some of the application's features and allows the user to create an account.
 
-## How to access the webstie
+## How to access the website
 
 There are two ways to access the website:
 
