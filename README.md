@@ -2,7 +2,7 @@
 
 ## Description
 
-A landing page for the Bankist application. The page displays some of the application's features and allows the user to create an account.
+A website for an imaginary banking company: Bankist. The website displays some of Bankist’s services.
 
 ## How to access the website
 
